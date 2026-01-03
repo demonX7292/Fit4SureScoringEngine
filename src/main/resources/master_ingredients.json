@@ -1,0 +1,422 @@
+[
+    {
+        "canonicalId": "MAIDA",
+        "standardName": "Refined Wheat Flour",
+        "fit4sureValue": -1.0,
+        "novaGroup": 4,
+        "aliases": [
+            "maida",
+            "refined wheat flour",
+            "all purpose flour",
+            "flour",
+            "wheat flour (refined)"
+        ]
+    },
+    {
+        "canonicalId": "SUGAR",
+        "standardName": "Sugar",
+        "fit4sureValue": -0.9,
+        "novaGroup": 2,
+        "aliases": [
+            "sugar",
+            "refined sugar",
+            "sucrose",
+            "castor sugar"
+        ]
+    },
+    {
+        "canonicalId": "HONEY",
+        "standardName": "Honey",
+        "fit4sureValue": 0.4,
+        "novaGroup": 2,
+        "aliases": [
+            "honey",
+            "raw honey",
+            "wild honey"
+        ]
+    },
+    {
+        "canonicalId": "ALMONDS",
+        "standardName": "Almonds",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": [
+            "almonds",
+            "badam",
+            "roasted almonds"
+        ]
+    },
+    {
+        "canonicalId": "RICE_CRISPIES",
+        "standardName": "Rice Crispies",
+        "fit4sureValue": -0.2,
+        "novaGroup": 3,
+        "aliases": [
+            "rice crispies",
+            "rice crisps",
+            "puffed rice"
+        ]
+    },
+    {
+        "canonicalId": "SOY_ISOLATE",
+        "standardName": "Soy Protein Isolate",
+        "fit4sureValue": -0.3,
+        "novaGroup": 4,
+        "aliases": [
+            "soy protein isolate",
+            "soy nuggets",
+            "soya chunks",
+            "soy protein",
+            "isolated soy protein"
+        ]
+    },
+    {
+        "canonicalId": "WHOLE_WHEAT",
+        "standardName": "Whole Wheat Flour",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": [
+            "whole wheat flour",
+            "atta",
+            "whole grain wheat"
+        ]
+    },
+    {
+        "canonicalId": "WHOLE_GRAINS_MILLETS",
+        "standardName": "Whole Grains & Millets",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": [
+            "whole grains & millets",
+            "whole grains and millets",
+            "millets",
+            "multigrain"
+        ]
+    },
+    {
+        "canonicalId": "NUTS_SEEDS",
+        "standardName": "Nuts & Seeds",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": [
+            "nuts & seeds",
+            "nuts and seeds",
+            "trail mix"
+        ]
+    },
+    {
+        "canonicalId": "HONEY_DATES",
+        "standardName": "Honey & Dates",
+        "fit4sureValue": 0.5,
+        "novaGroup": 2,
+        "aliases": [
+            "honey & dates",
+            "honey and dates",
+            "date syrup"
+        ]
+    },
+    {
+        "canonicalId": "SALT",
+        "standardName": "Salt",
+        "fit4sureValue": 0.0,
+        "novaGroup": 2,
+        "maxPercentage": 3.0,
+        "aliases": [
+            "salt",
+            "iodized salt",
+            "rock salt",
+            "sodium chloride"
+        ]
+    },
+    {
+        "canonicalId": "WHEY_PROTEIN_CONC",
+        "standardName": "Whey Protein Concentrate",
+        "fit4sureValue": 0.3,
+        "novaGroup": 3,
+        "aliases": [
+            "whey protein",
+            "wpc",
+            "whey powder",
+            "milk protein",
+            "whey isolate"
+        ]
+    },
+    {
+        "canonicalId": "SUNFLOWER_OIL_REFINED",
+        "standardName": "Refined Sunflower Oil",
+        "fit4sureValue": 0.0,
+        "novaGroup": 3,
+        "aliases": [
+            "sunflower oil",
+            "edible vegetable oil",
+            "refined oil"
+        ]
+    },
+    {
+        "canonicalId": "RICE_BRAN_OIL_REFINED",
+        "standardName": "Refined Rice Bran Oil",
+        "fit4sureValue": 0.0,
+        "novaGroup": 3,
+        "aliases": [
+            "refined rice bran oil",
+            "physically refined rice bran oil",
+            "edible vegetable oil (rice bran)",
+            "rice bran oil"
+        ]
+    },
+    {
+        "canonicalId": "STEVIA_EXTRACT",
+        "standardName": "Stevia",
+        "fit4sureValue": 0.7,
+        "novaGroup": 4,
+        "aliases": [
+            "stevia leaf extract",
+            "steviol glycosides",
+            "rebaudioside a"
+        ]
+    },
+    {
+        "canonicalId": "MALTODEXTRIN",
+        "standardName": "Maltodextrin",
+        "fit4sureValue": -0.8,
+        "novaGroup": 4,
+        "aliases": [
+            "maltodextrin powder",
+            "hydrolyzed starch",
+            "maltodextrin",
+            "liquid glucose",
+            "corn syrup"
+        ]
+    },
+    {
+        "canonicalId": "INULIN",
+        "standardName": "Inulin (Chicory Root Fiber)",
+        "fit4sureValue": 0.6,
+        "novaGroup": 3,
+        "aliases": [
+            "chicory root extract",
+            "fructo-oligosaccharides",
+            "fos"
+        ]
+    },
+    {
+        "canonicalId": "JAGGERY",
+        "standardName": "Jaggery",
+        "fit4sureValue": 0.5,
+        "novaGroup": 2,
+        "aliases": [
+            "gur",
+            "jaggery powder",
+            "unrefined sugar"
+        ]
+    },
+    {
+        "canonicalId": "MALT_EXTRACT",
+        "standardName": "Malt Extract",
+        "fit4sureValue": 0.3,
+        "novaGroup": 3,
+        "aliases": [
+            "barley malt extract",
+            "malt syrup"
+        ]
+    },
+    {
+        "canonicalId": "COLD_PRESSED_OIL",
+        "standardName": "Cold Pressed Oil",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": [
+            "wood pressed oil",
+            "kachi ghani oil",
+            "virgin coconut oil",
+            "extra virgin olive oil"
+        ]
+    },
+    {
+        "canonicalId": "OATS_ROLLED",
+        "standardName": "Rolled Oats",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": [
+            "oats",
+            "whole oats",
+            "whole grain oats",
+            "oat flakes",
+            "rolled oats gluten free"
+        ]
+    },
+    {
+        "canonicalId": "COCOA_BUTTER_SUB",
+        "standardName": "Cocoa Butter Substitute",
+        "fit4sureValue": -1.0,
+        "novaGroup": 4,
+        "aliases": [
+            "cbs",
+            "hydrogenated vegetable fat",
+            "confectionery fat"
+        ]
+    },
+    {
+        "canonicalId": "ERYTHRITOL",
+        "standardName": "Erythritol",
+        "fit4sureValue": 0.4,
+        "novaGroup": 4,
+        "aliases": [
+            "polyol",
+            "erythritol sweetener"
+        ]
+    },
+    {
+        "canonicalId": "DATES",
+        "standardName": "Dates",
+        "fit4sureValue": 0.8,
+        "novaGroup": 1,
+        "aliases": ["dates", "date paste", "arabian dates", "khajur"]
+    },
+    {
+        "canonicalId": "CASHEWS",
+        "standardName": "Cashews",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": ["cashews", "cashew kernels", "kaju"]
+    },
+    {
+        "canonicalId": "PEANUT_BUTTER",
+        "standardName": "Peanut Butter",
+        "fit4sureValue": 0.6,
+        "novaGroup": 3,
+        "aliases": ["peanut butter", "unsweetened peanut butter", "peanut paste"]
+    },
+    {
+        "canonicalId": "COCOA_SOLIDS",
+        "standardName": "Cocoa Solids",
+        "fit4sureValue": 0.7,
+        "novaGroup": 1,
+        "aliases": ["cocoa solids", "cocoa powder", "unsweetened cocoa"]
+    },
+    {
+        "canonicalId": "COCOA_BUTTER",
+        "standardName": "Cocoa Butter",
+        "fit4sureValue": 0.8,
+        "novaGroup": 2,
+        "aliases": ["cocoa butter", "theobroma oil"]
+    },
+    {
+        "canonicalId": "PALM_KERNEL_OIL",
+        "standardName": "Palm Kernel Oil",
+        "fit4sureValue": -0.8,
+        "novaGroup": 3,
+        "aliases": ["palm fat", "palm kernel oil", "vegetable fat (palm)", "hydrogenated palm oil"]
+    },
+    {
+        "canonicalId": "MILK_PROTEIN_ISOLATE",
+        "standardName": "Milk Protein Isolate",
+        "fit4sureValue": 0.2,
+        "novaGroup": 4,
+        "aliases": ["milk protein isolate", "calcium caseinate", "sodium caseinate", "milk protein"]
+    },
+    {
+        "canonicalId": "PEA_PROTEIN",
+        "standardName": "Pea Protein",
+        "fit4sureValue": 0.4,
+        "novaGroup": 4,
+        "aliases": ["pea protein isolate", "pea protein concentrate", "yellow pea protein"]
+    },
+    {
+        "canonicalId": "POLYDEXTROSE",
+        "standardName": "Polydextrose",
+        "fit4sureValue": -0.2,
+        "novaGroup": 4,
+        "aliases": ["polydextrose", "soluble corn fiber", "synthetic fiber"]
+    },
+    {
+        "canonicalId": "BROWN_RICE_SYRUP",
+        "standardName": "Brown Rice Syrup",
+        "fit4sureValue": -0.5,
+        "novaGroup": 3,
+        "aliases": ["rice syrup", "brown rice syrup", "rice malt"]
+    },
+    {
+        "canonicalId": "YEAST",
+        "standardName": "Yeast",
+        "fit4sureValue": 0.3,
+        "novaGroup": 2,
+        "aliases": ["yeast", "baker's yeast", "active dry yeast"]
+    },
+    {
+        "canonicalId": "WHEAT_GLUTEN",
+        "standardName": "Vital Wheat Gluten",
+        "fit4sureValue": 0.0,
+        "novaGroup": 3,
+        "aliases": ["gluten", "wheat gluten", "vital wheat protein", "wheat protein"]
+    },
+    {
+        "canonicalId": "SOYABEAN_OIL_REFINED",
+        "standardName": "Refined Soyabean Oil",
+        "fit4sureValue": 0.0,
+        "novaGroup": 3,
+        "aliases": ["refined soyabean oil", "soyabean oil", "soybean oil"]
+    },
+    {
+        "canonicalId": "CULTURED_WHEAT_COMPONENTS",
+        "standardName": "Fermented Wheat/Glucose",
+        "fit4sureValue": 0.6,
+        "novaGroup": 2,
+        "aliases": [
+            "cultured wheat flour",
+            "fermented wheat flour",
+            "cultured glucose",
+            "cultured sugar",
+            "fermented wheat"
+        ]
+    },
+    {
+        "canonicalId": "VINEGAR",
+        "standardName": "Vinegar",
+        "fit4sureValue": 0.5,
+        "novaGroup": 2,
+        "aliases": ["vinegar", "brewed vinegar", "white vinegar"]
+    },
+    {
+        "canonicalId": "WHEAT_BRAN",
+        "standardName": "Wheat Bran",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": ["wheat bran", "bran"]
+    },
+    {
+        "canonicalId": "PEANUT_FLOUR",
+        "standardName": "Peanut Flour",
+        "fit4sureValue": 0.6,
+        "novaGroup": 2,
+        "aliases": ["peanut flour"]
+    },
+    {
+        "canonicalId": "MILK_SOLIDS",
+        "standardName": "Milk Solids",
+        "fit4sureValue": 0.4,
+        "novaGroup": 2,
+        "aliases": ["milk solids", "dairy solids"]
+    },
+    {
+        "canonicalId": "SOYA_FLOUR",
+        "standardName": "Soya Flour",
+        "fit4sureValue": 0.5,
+        "novaGroup": 2,
+        "aliases": ["soya flour", "soy flour"]
+    },
+    {
+        "canonicalId": "OAT_FLOUR",
+        "standardName": "Oat Flour",
+        "fit4sureValue": 0.8,
+        "novaGroup": 2,
+        "aliases": ["oat flour", "oat meal"]
+    },
+    {
+        "canonicalId": "OLIVE_OIL",
+        "standardName": "Olive Oil",
+        "fit4sureValue": 1.0,
+        "novaGroup": 1,
+        "aliases": ["olive oil", "extra virgin olive oil"]
+    }
+]

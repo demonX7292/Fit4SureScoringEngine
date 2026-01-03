@@ -1,0 +1,27 @@
+{
+    "name": "Synthetic Protein Bar",
+    "category": "Snack",
+    "ingredients": [
+        {
+            "name": "Whey Protein",
+            "percentage": 30
+        },
+        {
+            "name": "HFCS",
+            "percentage": 20
+        },
+        {
+            "name": "Artificial Flavoring",
+            "percentage": 5
+        }
+    ],
+    "nutritionalInfo": {
+        "energyKcal": 200,
+        "totalSugar": 15.0,
+        "saturatedFat": 2.0,
+        "sodium": 50,
+        "fiber": 2.0,
+        "protein": 25.0,
+        "fvnlPercentage": 0
+    }
+}

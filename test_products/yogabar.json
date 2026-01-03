@@ -1,0 +1,37 @@
+{
+  "name": "Yogabar Multigrain Energy Bar",
+  "category": "Energy Bar",
+  "ingredients": [
+    {
+      "name": "Whole Grains & Millets",
+      "percentage": 32.0,
+      "novaGroup": "UNPROCESSED"
+    },
+    {
+      "name": "Nuts & Seeds",
+      "percentage": 34.0,
+      "novaGroup": "UNPROCESSED"
+    },
+    {
+      "name": "Honey & Dates",
+      "percentage": 31.0,
+      "novaGroup": "PROCESSED_CULINARY",
+      "isSugar": true
+    },
+    {
+      "name": "Rice Crispies",
+      "novaGroup": "PROCESSED"
+    }
+  ],
+  "nutritionalInfo": {
+    "energyKcal": 437,
+    "totalSugar": 19.2,
+    "addedSugar": 0.0,
+    "totalFat": 0.0, 
+    "saturatedFat": 6.5,
+    "sodium": 158,
+    "fiber": 7.9,
+    "protein": 14.0,
+    "fvnlPercentage": 35.0
+  }
+}

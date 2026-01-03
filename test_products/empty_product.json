@@ -1,0 +1,21 @@
+{
+    "productName": "Empty Water",
+    "brand": "Fit4Sure",
+    "nutritionalInfo": {
+        "energyKcal": 0,
+        "protein": 0,
+        "carbohydrates": 0,
+        "totalSugar": 0,
+        "totalFat": 0,
+        "saturatedFat": 0,
+        "sourceFiber": 0,
+        "sodium": 0,
+        "fvnlPercentage": 0
+    },
+    "ingredients": [
+        {
+            "name": "Water",
+            "percentage": 100
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Super Whey Bar",
+    "category": "Snack",
+    "ingredients": [],
+    "nutritionalInfo": {
+        "energyKcal": 200,
+        "totalSugar": 2.0,
+        "saturatedFat": 8.0,
+        "sodium": 50,
+        "fiber": 5.0,
+        "protein": 30.0,
+        "fvnlPercentage": 0
+    }
+}

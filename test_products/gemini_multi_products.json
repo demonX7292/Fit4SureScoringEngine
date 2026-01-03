@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Happilo Premium California Almonds",
+    "category": "Nuts & Seeds",
+    "ingredients": [
+      { "name": "California Almonds", "percentage": 100.0, "novaGroup": "UNPROCESSED" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 626.67,
+      "totalSugar": 3.33,
+      "addedSugar": 0.0,
+      "saturatedFat": 4.67,
+      "sodium": 22.0,
+      "fiber": 10.67,
+      "protein": 22.67,
+      "fvnlPercentage": 100.0
+    }
+  },
+  {
+    "name": "Yoga Bar 100% Rolled Oats",
+    "category": "Breakfast Cereal",
+    "ingredients": [
+      { "name": "Rolled Oats", "percentage": 100.0, "novaGroup": "UNPROCESSED" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 387,
+      "totalSugar": 1.7,
+      "addedSugar": 0.0,
+      "saturatedFat": 1.7,
+      "sodium": 9.5,
+      "fiber": 10.0,
+      "protein": 12.6,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "RiteBite Max Protein - Choco Berry",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Nuggets, Whey Protein Concentrate)", "percentage": 29.0 },
+      { "name": "Dark Chocolate Compound (Sugar, Cocoa Solids, Sunflower Oil)", "novaGroup": "ULTRA_PROCESSED", "percentage": 19.0 },
+      { "name": "Maltitol", "isSugar": true },
+      { "name": "Refined Sunflower Oil" },
+      { "name": "Fructooligosaccharides", "novaGroup": "PROCESSED" },
+      { "name": "Cranberries", "percentage": 5.0 },
+      { "name": "Cocoa Powder" },
+      { "name": "INS 322" },
+      { "name": "INS 422" },
+      { "name": "Salt" },
+      { "name":  "Soy Lecithin" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 361,
+      "totalSugar": 0.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 2.3,
+      "sodium": 100,
+      "fiber": 10.0,
+      "protein": 30.0,
+      "fvnlPercentage": 5.0
+    }
+  },
+  {
+    "name": "Kelloggs Muesli 21% Fruit & Nut",
+    "category": "Breakfast Cereal",
+    "ingredients": [
+      { "name": "Corn Grits", "percentage": 18.3 },
+      { "name": "Sugar", "isSugar": true },
+      { "name": "Wheat", "percentage": 20.0 },
+      { "name": "maida" },
+      { "name": "honey" },
+      { "name": "oligofructose" },
+      { "name": "Rice", "percentage": 15.0 },
+      { "name": "Dried Papaya", "percentage": 5.0 },
+      { "name": "Raisins", "percentage": 3.0 },
+      { "name": "Dried Apple", "percentage": 5.0 },
+      { "name": "Almonds", "percentage": 3.5 },
+      { "name": "pumpkin seeds", "percentage": 3.5 },
+      { "name": "Malt Extract" },
+      { "name": "Iodized Salt" },
+      { "name": "INS 140" },
+      { "name": "INS 307b" },
+      { "name": "INS 150d" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 386,
+      "totalSugar": 21.8,
+      "addedSugar": 12.5,
+      "saturatedFat": 1.0,
+      "sodium": 140,
+      "fiber": 6.4,
+      "protein": 8.1,
+      "fvnlPercentage": 21.0
+    }
+  },
+  {
+    "name": "Too yumm chips",
+    "category": "Snacks",
+    "ingredients": [
+      { "name": "Potato", "novaGroup": "UNPROCESSED", "percentage": 56.0 },
+      { "name": "rice bran Oil", "novaGroup": "PROCESSED" },
+      { "name": "Spices and Condiments", "percentage": 2.0 },
+      { "name": "Sugar", "isSugar": true },
+      { "name": "maltodextrin" },
+      { "name": "Iodized Salt" },
+      { "name": "Milk Solids" },
+      { "name": "Cheese Powder" },
+      { "name": "INS 627" },
+      { "name": "INS 631" },
+      { "name": "INS 414" },
+      { "name": "INS 551" },
+      { "name": "INS 508" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 541,
+      "totalSugar": 4.7,
+      "addedSugar": 4.7,
+      "saturatedFat": 7.4,
+      "sodium": 630,
+      "fiber": 1.5,
+      "protein": 7.4,
+      "fvnlPercentage": 0.0
+    }
+  }
+]

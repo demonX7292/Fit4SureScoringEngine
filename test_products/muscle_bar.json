@@ -1,0 +1,27 @@
+{
+    "name": "Super Muscle Bar",
+    "category": "Snack",
+    "ingredients": [
+        {
+            "name": "Whey Protein Isolate",
+            "percentage": 30
+        },
+        {
+            "name": "Dates",
+            "percentage": 40
+        },
+        {
+            "name": "Almonds",
+            "percentage": 30
+        }
+    ],
+    "nutritionalInfo": {
+        "energyKcal": 250,
+        "totalSugar": 15.0,
+        "saturatedFat": 2.0,
+        "sodium": 50,
+        "fiber": 5.0,
+        "protein": 25.0,
+        "fvnlPercentage": 40
+    }
+}

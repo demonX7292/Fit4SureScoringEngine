@@ -1,0 +1,904 @@
+[
+  {
+    "name": "Yoga Bar 20g Protein Bar - Chocolate Baked Brownie",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Whey Protein Concentrate, Pea Protein Concentrate, Whey Crisps)", "percentage": 34.0 },
+      { "name": "Almonds", "percentage": 32.0 },
+      { "name": "Dates", "percentage": 17.0 },
+      { "name": "Prebiotic Fiber (FOS)" },
+      { "name": "Honey" },
+      { "name": "Cocoa Powder" },
+      { "name": "Dark Chocolate Chips" },
+      { "name": "Sunflower Oil" },
+      { "name": "Flax Seeds" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 461.4,
+      "totalSugar": 24.5,
+      "addedSugar": 9.8,
+      "saturatedFat": 5.5,
+      "sodium": 358.5,
+      "fiber": 12.2,
+      "protein": 29.1,
+      "fvnlPercentage": 49.0
+    }
+  },
+  {
+    "name": "The Whole Truth Protein Bar - Cranberry",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Cashew Kernels", "percentage": 34.0 },
+      { "name": "Cranberries", "percentage": 21.0 },
+      { "name": "Dates", "percentage": 19.0 },
+      { "name": "Whey Protein Concentrate", "percentage": 17.0 },
+      { "name": "Cocoa Butter", "percentage": 5.0 },
+      { "name": "Almond Kernels", "percentage": 4.0 }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 451.9,
+      "totalSugar": 28.1,
+      "addedSugar": 0.0,
+      "saturatedFat": 6.1,
+      "sodium": 3.6,
+      "fiber": 4.2,
+      "protein": 23.1,
+      "fvnlPercentage": 78.0
+    }
+  },
+  {
+    "name": "RiteBite Max Protein Professional - Choco Almond (30g Protein)",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Nuggets, Whey Protein Concentrate, Calcium Caseinate)", "percentage": 30.0 },
+      { "name": "Dark Compound (Maltitol, Cocoa Solids, Palm Fat, INS 322)", "novaGroup": "ULTRA_PROCESSED" },
+      { "name": "Almonds", "percentage": 5.0 },
+      { "name": "Fructooligosaccharides" },
+      { "name": "Maltitol", "isSugar": true },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Rice Crispy" },
+      { "name": "Cocoa Powder" },
+      { "name": "Salt" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 361.0,
+      "totalSugar": 1.2,
+      "addedSugar": 0.0,
+      "saturatedFat": 2.3,
+      "sodium": 100.0,
+      "fiber": 10.0,
+      "protein": 30.0,
+      "fvnlPercentage": 5.0
+    }
+  },
+  {
+    "name": "MuscleBlaze Hi-Protein Bar - Almond Fudge",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Protein, Whey Protein, Milk Protein)", "percentage": 30.0 },
+      { "name": "Humectant (INS 422, INS 965)" },
+      { "name": "Fructooligosaccharides" },
+      { "name": "Cocoa Powder" },
+      { "name": "Almonds", "percentage": 5.0 },
+      { "name": "Stabilizer (INS 415)" },
+      { "name": "Dark Chocolate Chips" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 381.0,
+      "totalSugar": 4.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 6.2,
+      "sodium": 220.0,
+      "fiber": 6.5,
+      "protein": 30.0,
+      "fvnlPercentage": 5.0
+    }
+  },
+  {
+    "name": "PHAB Protein Bar - Chocolate Brownie",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Whey Protein Isolate, Milk Protein Isolate, Pea Protein Isolate)", "percentage": 34.0 },
+      { "name": "Dates", "percentage": 22.0 },
+      { "name": "Maltitol", "isSugar": true },
+      { "name": "Cocoa Solids" },
+      { "name": "FOS" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Salt" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 380.5,
+      "totalSugar": 13.1,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.4,
+      "sodium": 222.8,
+      "fiber": 12.0,
+      "protein": 32.2,
+      "fvnlPercentage": 22.0
+    }
+  },
+  {
+    "name": "HYP Whey Protein Bar - Chocolate Peanut Butter",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Whey Protein Concentrate, Milk Protein Isolate, Whey Protein Hydrolysate)", "percentage": 33.3 },
+      { "name": "Peanuts", "percentage": 10.0 },
+      { "name": "Oligofructose" },
+      { "name": "Chocolate Coating (Maltitol, Cocoa Butter, Cocoa Solids)" },
+      { "name": "Humectant (INS 422, INS 420)" },
+      { "name": "Oats" },
+      { "name": "Guar Gum (INS 412)" },
+      { "name": "Salt" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 396.0,
+      "totalSugar": 10.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.0,
+      "sodium": 233.3,
+      "fiber": 9.2,
+      "protein": 33.3,
+      "fvnlPercentage": 10.0
+    }
+  },
+  {
+    "name": "The Whole Truth Protein Bar - Double Cocoa Pro",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Cashew Kernels", "percentage": 34.0 },
+      { "name": "Dates", "percentage": 26.0 },
+      { "name": "Whey Protein Blend (Isolate + Concentrate)", "percentage": 19.0 },
+      { "name": "Almond Kernels", "percentage": 8.0 },
+      { "name": "Cocoa Powder", "percentage": 6.0 },
+      { "name": "Cocoa Butter", "percentage": 5.0 }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 442.0,
+      "totalSugar": 22.1,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.8,
+      "sodium": 8.4,
+      "fiber": 5.2,
+      "protein": 29.8,
+      "fvnlPercentage": 72.0
+    }
+  },
+  {
+    "name": "GNC Pro Protein Wafer Bar - Chocolate",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Milk Chocolate (INS 965, Vegetable Fat, Milk Solids, Cocoa Solids, INS 322)", "novaGroup": "ULTRA_PROCESSED" },
+      { "name": "Peanut Butter", "percentage": 25.6 },
+      { "name": "Protein Blend (Whey Protein Concentrate, Skimmed Milk Powder)", "percentage": 22.1 },
+      { "name": "Refined Wheat Flour" },
+      { "name": "Sweetener (INS 955)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 405.0,
+      "totalSugar": 4.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 9.2,
+      "sodium": 155.0,
+      "fiber": 3.0,
+      "protein": 25.0,
+      "fvnlPercentage": 25.6
+    }
+  },
+  {
+    "name": "Mojo Bar Choco Almond + Protein",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Almonds", "percentage": 18.0 },
+      { "name": "Peanuts", "percentage": 15.0 },
+      { "name": "Dates", "percentage": 20.0 },
+      { "name": "Soy Protein Nuggets" },
+      { "name": "Glucose Syrup" },
+      { "name": "Honey" },
+      { "name": "Rice Crispy" },
+      { "name": "Dark Chocolate" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 460.0,
+      "totalSugar": 22.0,
+      "addedSugar": 10.0,
+      "saturatedFat": 5.2,
+      "sodium": 110.0,
+      "fiber": 8.0,
+      "protein": 15.6,
+      "fvnlPercentage": 53.0
+    }
+  },
+  {
+    "name": "FiT Nutrition Bar - Chocolate Hazelnut",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Whey Protein, Milk Protein)", "percentage": 30.0 },
+      { "name": "Dark Chocolate Chips" },
+      { "name": "Hazelnuts", "percentage": 5.0 },
+      { "name": "Oats" },
+      { "name": "Peanut Butter" },
+      { "name": "Brown Rice Syrup" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 269.4,
+      "totalSugar": 8.4,
+      "addedSugar": 0.0,
+      "saturatedFat": 3.8,
+      "sodium": 140.0,
+      "fiber": 12.0,
+      "protein": 30.0,
+      "fvnlPercentage": 5.0
+    }
+  },
+  {
+    "name": "Nature Valley Protein Bar - Peanut Butter & Dark Chocolate",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Roasted Peanuts", "percentage": 39.0 },
+      { "name": "Soy Protein Isolate" },
+      { "name": "Chicory Root Extract" },
+      { "name": "Dark Chocolate Pieces (Sugar, Cocoa Mass, Cocoa Butter, INS 322)", "percentage": 8.0 },
+      { "name": "Sugar" },
+      { "name": "Palm Fat" },
+      { "name": "Whey Solids" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 495.0,
+      "totalSugar": 15.5,
+      "addedSugar": 12.0,
+      "saturatedFat": 8.8,
+      "sodium": 388.0,
+      "fiber": 13.5,
+      "protein": 25.5,
+      "fvnlPercentage": 39.0
+    }
+  },
+  {
+    "name": "Barebells Protein Bar - Cookies & Cream",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Milk Protein" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Sweetener (INS 965)" },
+      { "name": "Polydextrose" },
+      { "name": "Soy Protein Isolate" },
+      { "name": "Cocoa Butter" },
+      { "name": "Whole Milk Powder" },
+      { "name": "Cocoa Mass" },
+      { "name": "Sunflower Oil" },
+      { "name": "Sweetener (INS 955, INS 950)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 346.0,
+      "totalSugar": 2.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.6,
+      "sodium": 190.0,
+      "fiber": 6.3,
+      "protein": 37.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Fulfil Protein Bar - Salted Caramel",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Milk Protein" },
+      { "name": "Milk Chocolate (INS 965, Cocoa Butter, Milk Powder, Cocoa Mass, INS 322)", "novaGroup": "ULTRA_PROCESSED" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Isomalto-oligosaccharide" },
+      { "name": "Soy Protein Nuggets" },
+      { "name": "Palm Fat" },
+      { "name": "Sea Salt" },
+      { "name": "Sweetener (INS 955)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 371.0,
+      "totalSugar": 3.1,
+      "addedSugar": 0.0,
+      "saturatedFat": 9.0,
+      "sodium": 620.0,
+      "fiber": 6.2,
+      "protein": 37.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Quest Protein Bar - Cookies & Cream",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Milk Protein Isolate, Whey Protein Isolate)" },
+      { "name": "Soluble Corn Fiber" },
+      { "name": "Almonds" },
+      { "name": "Water" },
+      { "name": "Cocoa Butter" },
+      { "name": "Erythritol" },
+      { "name": "Palm Kernel Oil" },
+      { "name": "Sodium Caseinate" },
+      { "name": "Sucralose" },
+      { "name": "Baking Soda" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 344.8,
+      "totalSugar": 1.7,
+      "addedSugar": 0.0,
+      "saturatedFat": 8.6,
+      "sodium": 431.0,
+      "fiber": 25.8,
+      "protein": 36.2,
+      "fvnlPercentage": 5.0
+    }
+  },
+  {
+    "name": "KIND Protein Bar - Dark Chocolate Nut",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Peanuts", "percentage": 35.0 },
+      { "name": "Almonds", "percentage": 15.0 },
+      { "name": "Dark Chocolate (Sugar, Cocoa Mass, Cocoa Butter, INS 322)", "percentage": 15.0 },
+      { "name": "Glucose Syrup" },
+      { "name": "Protein Crispies (Soy Protein Isolate, Tapioca Starch, Salt)" },
+      { "name": "Honey" },
+      { "name": "Peanut Butter" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 517.0,
+      "totalSugar": 16.0,
+      "addedSugar": 12.0,
+      "saturatedFat": 8.0,
+      "sodium": 640.0,
+      "fiber": 10.0,
+      "protein": 24.0,
+      "fvnlPercentage": 50.0
+    }
+  },
+  {
+    "name": "PhD Smart Bar - White Choc Blondie",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Calcium Caseinate, Whey Protein Concentrate, Soya Protein Isolate)" },
+      { "name": "White Chocolate (INS 965, Cocoa Butter, Whole Milk Powder, INS 322)" },
+      { "name": "Caramel Layer (Maltitol, Condensed Milk, Cocoa Butter)" },
+      { "name": "Soya Crisps" },
+      { "name": "Humectant (INS 422)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 405.0,
+      "totalSugar": 3.3,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.8,
+      "sodium": 500.0,
+      "fiber": 0.0,
+      "protein": 31.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Optimum Nutrition Protein Stix - Caramel",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Protein Isolate, Whey Protein Isolate, Calcium Caseinate)" },
+      { "name": "Milk Chocolate (INS 965, Cocoa Solids, Milk Solids, INS 322)" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Polydextrose" },
+      { "name": "Soy Protein Nuggets" },
+      { "name": "Caramel" },
+      { "name": "INS 965" },
+      { "name": "INS 322" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 348.0,
+      "totalSugar": 7.1,
+      "addedSugar": 0.0,
+      "saturatedFat": 7.1,
+      "sodium": 340.0,
+      "fiber": 11.4,
+      "protein": 31.4,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "BSN Syntha-6 Protein Crisp - Chocolate Crunch",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Dairy Protein Blend (Whey Protein Isolate, Whey Protein Concentrate, Milk Protein Concentrate)" },
+      { "name": "Isomalto-oligosaccharides" },
+      { "name": "Soy Protein Isolate" },
+      { "name": "Palm Kernel Oil" },
+      { "name": "Cocoa Powder" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Maltitol" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 345.5,
+      "totalSugar": 3.6,
+      "addedSugar": 0.0,
+      "saturatedFat": 9.1,
+      "sodium": 400.0,
+      "fiber": 10.9,
+      "protein": 36.4,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Mars Hi-Protein Low Sugar Bar",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Milk Protein" },
+      { "name": "Milk Chocolate (INS 965, Cocoa Butter, Milk Powder, Cocoa Mass, INS 322)" },
+      { "name": "Caramel Layer (INS 965, Condensed Milk, Cocoa Butter, INS 420)" },
+      { "name": "Hydrolysed Collagen" },
+      { "name": "Humectant (INS 422)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 352.0,
+      "totalSugar": 3.3,
+      "addedSugar": 0.0,
+      "saturatedFat": 7.4,
+      "sodium": 610.0,
+      "fiber": 0.0,
+      "protein": 32.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Snickers Hi-Protein Low Sugar Bar",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Milk Protein" },
+      { "name": "Milk Chocolate (INS 965, Cocoa Butter, Milk Powder, INS 322)" },
+      { "name": "Peanuts", "percentage": 10.0 },
+      { "name": "Caramel Layer" },
+      { "name": "Humectant (INS 422)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 370.0,
+      "totalSugar": 3.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 7.5,
+      "sodium": 580.0,
+      "fiber": 0.0,
+      "protein": 35.0,
+      "fvnlPercentage": 10.0
+    }
+  },
+  {
+    "name": "Clif Builder's Protein Bar - Chocolate",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Soy Protein Isolate" },
+      { "name": "Beet Syrup" },
+      { "name": "Brown Rice Syrup" },
+      { "name": "Cane Syrup" },
+      { "name": "Palm Kernel Oil" },
+      { "name": "Peanut Butter" },
+      { "name": "Cocoa Powder" },
+      { "name": "Oat Fiber" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 411.7,
+      "totalSugar": 30.8,
+      "addedSugar": 30.8,
+      "saturatedFat": 7.4,
+      "sodium": 500.0,
+      "fiber": 2.9,
+      "protein": 29.4,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "MyProtein Layered Protein Bar - Salted Caramel",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Milk Protein Blend", "percentage": 29.0 },
+      { "name": "White Chocolate (INS 965, Cocoa Butter, Milk Powder)" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Isomalto-oligosaccharide" },
+      { "name": "Soya Nuggets" },
+      { "name": "Salted Caramel" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 365.0,
+      "totalSugar": 4.0,
+      "addedSugar": 0.0,
+      "saturatedFat": 13.0,
+      "sodium": 480.0,
+      "fiber": 14.0,
+      "protein": 34.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Grenade Carb Killa - Chocolate Crunch",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Milk Protein" },
+      { "name": "Milk Chocolate (INS 965, Cocoa Butter, Milk Powder, INS 322)" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Polydextrose" },
+      { "name": "Soy Protein" },
+      { "name": "Cocoa Butter" },
+      { "name": "Sweetener (INS 955)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 366.6,
+      "totalSugar": 3.3,
+      "addedSugar": 0.0,
+      "saturatedFat": 8.3,
+      "sodium": 300.0,
+      "fiber": 11.6,
+      "protein": 38.3,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Think! High Protein Bar - Brownie Crunch",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Protein Isolate, Calcium Caseinate, Whey Protein Isolate)" },
+      { "name": "Maltitol" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Almonds" },
+      { "name": "Cocoa Powder" },
+      { "name": "Palm Kernel Oil" },
+      { "name": "Sunflower Lecithin" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 383.3,
+      "totalSugar": 0.0,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.0,
+      "sodium": 333.3,
+      "fiber": 1.7,
+      "protein": 33.3,
+      "fvnlPercentage": 5.0
+    }
+  },
+  {
+    "name": "RXBAR - Blueberry",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Dates", "percentage": 40.0 },
+      { "name": "Egg Whites", "percentage": 25.0 },
+      { "name": "Almonds", "percentage": 20.0 },
+      { "name": "Cashews", "percentage": 10.0 },
+      { "name": "Blueberries", "percentage": 4.0 },
+      { "name": "Natural Blueberry Flavor" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 403.8,
+      "totalSugar": 28.8,
+      "addedSugar": 0.0,
+      "saturatedFat": 1.9,
+      "sodium": 211.5,
+      "fiber": 7.7,
+      "protein": 23.1,
+      "fvnlPercentage": 44.0
+    }
+  },
+  {
+    "name": "PowerBar Protein Plus - Chocolate Peanut Butter",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Trisource Protein Blend (Casein, Whey Protein Isolate, Soy Protein Isolate)" },
+      { "name": "Fructose Syrup" },
+      { "name": "Peanut Flour" },
+      { "name": "Milk Chocolate (Sugar, Cocoa Butter, Milk Powder, INS 322)" },
+      { "name": "Humectant (INS 420)" },
+      { "name": "Maltodextrin" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 363.6,
+      "totalSugar": 12.7,
+      "addedSugar": 12.7,
+      "saturatedFat": 3.6,
+      "sodium": 363.6,
+      "fiber": 1.8,
+      "protein": 36.4,
+      "fvnlPercentage": 10.0
+    }
+  },
+  {
+    "name": "Pure Protein Bar - Chocolate Peanut Butter",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Whey Protein Isolate, Milk Protein Isolate)" },
+      { "name": "Milk Chocolate Coating (Sugar, Cocoa Butter, Milk Powder)" },
+      { "name": "Peanuts" },
+      { "name": "Maltitol" },
+      { "name": "Humectant (INS 422)" },
+      { "name": "Palm Kernel Oil" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 400.0,
+      "totalSugar": 4.0,
+      "addedSugar": 4.0,
+      "saturatedFat": 12.0,
+      "sodium": 400.0,
+      "fiber": 4.0,
+      "protein": 40.0,
+      "fvnlPercentage": 10.0
+    }
+  },
+  {
+    "name": "Trek Protein Flapjack - Cocoa Oat",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Gluten Free Oats", "percentage": 25.0 },
+      { "name": "Soy Protein Crunchies", "percentage": 18.0 },
+      { "name": "Vegetable Oils (Palm, Rapeseed)" },
+      { "name": "Chocolate Flavor Topping" },
+      { "name": "Brown Rice Syrup" },
+      { "name": "Cane Sugar" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 454.0,
+      "totalSugar": 27.2,
+      "addedSugar": 22.0,
+      "saturatedFat": 12.0,
+      "sodium": 800.0,
+      "fiber": 5.0,
+      "protein": 18.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "EAT Anytime Protein Bar - Berry Blast",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Protein Isolate, Whey Protein Concentrate)", "percentage": 18.0 },
+      { "name": "Nuts (Cashews, Almonds)", "percentage": 15.0 },
+      { "name": "Oats" },
+      { "name": "Dates" },
+      { "name": "Mixed Berries", "percentage": 10.0 },
+      { "name": "Honey" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 381.5,
+      "totalSugar": 18.0,
+      "addedSugar": 0.0,
+      "saturatedFat": 2.5,
+      "sodium": 120.0,
+      "fiber": 4.5,
+      "protein": 18.0,
+      "fvnlPercentage": 25.0
+    }
+  },
+  {
+    "name": "Gladful Protein Bar - Choco Almond",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Pea Protein, Rice Protein, Whey Protein)" },
+      { "name": "Almonds", "percentage": 15.0 },
+      { "name": "Dates" },
+      { "name": "Jaggery" },
+      { "name": "Cocoa Powder" },
+      { "name": "Oats" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 390.0,
+      "totalSugar": 15.0,
+      "addedSugar": 5.0,
+      "saturatedFat": 3.0,
+      "sodium": 110.0,
+      "fiber": 8.0,
+      "protein": 20.0,
+      "fvnlPercentage": 15.0
+    }
+  },
+  {
+    "name": "Unibic Protein Bar - Choco Almond",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Protein Isolate, Whey Protein Concentrate)", "percentage": 20.0 },
+      { "name": "Almonds", "percentage": 8.0 },
+      { "name": "Dark Chocolate Coating" },
+      { "name": "Liquid Glucose" },
+      { "name": "Rice Crispy" },
+      { "name": "Humectant (INS 422)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 410.0,
+      "totalSugar": 18.0,
+      "addedSugar": 12.0,
+      "saturatedFat": 8.0,
+      "sodium": 210.0,
+      "fiber": 4.0,
+      "protein": 20.0,
+      "fvnlPercentage": 8.0
+    }
+  },
+  {
+    "name": "MuscleBlaze 30g Protein Bar - Almond Fudge",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Protein, Whey Protein, Milk Protein)", "percentage": 30.0 },
+      { "name": "Humectant (INS 422, INS 965)" },
+      { "name": "Fructooligosaccharides" },
+      { "name": "Cocoa Powder" },
+      { "name": "Almonds", "percentage": 5.0 },
+      { "name": "Stabilizer (INS 415)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 381.0,
+      "totalSugar": 4.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 6.2,
+      "sodium": 220.0,
+      "fiber": 6.5,
+      "protein": 30.0,
+      "fvnlPercentage": 5.0
+    }
+  },
+  {
+    "name": "The Whole Truth Protein Bar - Hazelnut Cocoa",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Hazelnuts", "percentage": 34.0 },
+      { "name": "Dates", "percentage": 27.0 },
+      { "name": "Whey Protein Concentrate", "percentage": 18.0 },
+      { "name": "Cocoa Powder", "percentage": 8.0 },
+      { "name": "Cocoa Butter", "percentage": 6.0 },
+      { "name": "Cashews", "percentage": 7.0 }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 468.0,
+      "totalSugar": 24.2,
+      "addedSugar": 0.0,
+      "saturatedFat": 6.8,
+      "sodium": 5.1,
+      "fiber": 4.8,
+      "protein": 22.4,
+      "fvnlPercentage": 68.0
+    }
+  },
+  {
+    "name": "Polished Protein Bar - Cookies & Cream",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Milk Protein, Whey Protein Isolate)" },
+      { "name": "White Chocolate Coating" },
+      { "name": "Soy Nuggets" },
+      { "name": "Isomalto-oligosaccharide" },
+      { "name": "Humectant (INS 422)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 355.0,
+      "totalSugar": 2.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.0,
+      "sodium": 180.0,
+      "fiber": 12.0,
+      "protein": 35.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "The Whole Truth Protein Bar - Coffee Cocoa",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Cashew Kernels", "percentage": 34.0 },
+      { "name": "Dates", "percentage": 27.0 },
+      { "name": "Whey Protein Concentrate", "percentage": 18.0 },
+      { "name": "Cocoa Powder", "percentage": 4.0 },
+      { "name": "Cocoa Butter", "percentage": 4.0 },
+      { "name": "Coffee Powder", "percentage": 3.0 }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 455.0,
+      "totalSugar": 23.0,
+      "addedSugar": 0.0,
+      "saturatedFat": 5.9,
+      "sodium": 4.2,
+      "fiber": 4.5,
+      "protein": 21.0,
+      "fvnlPercentage": 34.0
+    }
+  },
+  {
+    "name": "Yoga Bar Daily 10g Protein Bar - Almond Fudge",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Almonds", "percentage": 22.0 },
+      { "name": "Dates", "percentage": 18.0 },
+      { "name": "Protein Blend (Whey Protein, Soy Nuggets)", "percentage": 15.0 },
+      { "name": "Honey" },
+      { "name": "Oats" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 395.0,
+      "totalSugar": 19.5,
+      "addedSugar": 0.0,
+      "saturatedFat": 3.5,
+      "sodium": 130.0,
+      "fiber": 10.0,
+      "protein": 20.0,
+      "fvnlPercentage": 40.0
+    }
+  },
+  {
+    "name": "The Whole Truth Protein Bar - Peanut Cocoa",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Peanuts", "percentage": 47.0 },
+      { "name": "Dates", "percentage": 28.0 },
+      { "name": "Whey Protein Concentrate", "percentage": 15.0 },
+      { "name": "Cocoa Powder", "percentage": 5.0 },
+      { "name": "Cocoa Butter", "percentage": 3.0 }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 478.0,
+      "totalSugar": 22.0,
+      "addedSugar": 0.0,
+      "saturatedFat": 7.2,
+      "sodium": 14.0,
+      "fiber": 4.5,
+      "protein": 25.5,
+      "fvnlPercentage": 47.0
+    }
+  },
+  {
+    "name": "RiteBite Max Protein Daily - Choco Berry",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Nuggets, Whey Protein Concentrate)", "percentage": 10.0 },
+      { "name": "Berries (Cranberry, Strawberry, Goji Berry)", "percentage": 8.0 },
+      { "name": "Dark Compound Coating (Sugar, Cocoa Solids, Palm Fat)" },
+      { "name": "Corn Syrup" },
+      { "name": "Rice Crispy" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 412.0,
+      "totalSugar": 15.8,
+      "addedSugar": 12.0,
+      "saturatedFat": 6.8,
+      "sodium": 175.0,
+      "fiber": 10.0,
+      "protein": 20.0,
+      "fvnlPercentage": 8.0
+    }
+  },
+  {
+    "name": "MuscleBlaze 10g Protein Bar - Choco Delight",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Soy Nuggets, Whey Protein Concentrate)", "percentage": 15.0 },
+      { "name": "Milk Chocolate Coating (Sugar, Cocoa Solids, Palm Fat)" },
+      { "name": "Liquid Glucose" },
+      { "name": "Rice Crispy" },
+      { "name": "Oats" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 415.0,
+      "totalSugar": 18.0,
+      "addedSugar": 14.5,
+      "saturatedFat": 9.0,
+      "sodium": 205.0,
+      "fiber": 4.0,
+      "protein": 15.0,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "SuperYou Wafer Protein Bar - Strawberry Creme",
+    "category": "Protein Bar",
+    "ingredients": [
+      { "name": "Protein Blend (Whey Protein, Milk Powder)", "percentage": 25.0 },
+      { "name": "White Chocolate (Sugar, Cocoa Butter, Milk Solids)" },
+      { "name": "Refined Wheat Flour" },
+      { "name": "Palm Fat" },
+      { "name": "Strawberry Powder" },
+      { "name": "Sweetener (INS 955)" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 490.0,
+      "totalSugar": 14.5,
+      "addedSugar": 11.0,
+      "saturatedFat": 13.0,
+      "sodium": 195.0,
+      "fiber": 2.0,
+      "protein": 25.0,
+      "fvnlPercentage": 2.0
+    }
+  }
+]

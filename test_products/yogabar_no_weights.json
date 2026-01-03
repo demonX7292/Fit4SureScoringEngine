@@ -1,0 +1,34 @@
+{
+    "name": "Yogabar - No Percentages",
+    "category": "Energy Bar",
+    "ingredients": [
+        {
+            "name": "Whole Grains & Millets",
+            "novaGroup": "UNPROCESSED"
+        },
+        {
+            "name": "Nuts & Seeds",
+            "novaGroup": "UNPROCESSED"
+        },
+        {
+            "name": "Honey & Dates",
+            "novaGroup": "PROCESSED_CULINARY",
+            "isSugar": true
+        },
+        {
+            "name": "Rice Crispies",
+            "novaGroup": "PROCESSED"
+        }
+    ],
+    "nutritionalInfo": {
+        "energyKcal": 437,
+        "totalSugar": 19.2,
+        "addedSugar": 0.0,
+        "totalFat": 0.0,
+        "saturatedFat": 6.5,
+        "sodium": 158,
+        "fiber": 7.9,
+        "protein": 14.0,
+        "fvnlPercentage": 35.0
+    }
+}

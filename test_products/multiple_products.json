@@ -1,0 +1,133 @@
+[
+    {
+        "name": "Yogabar Energy Bar - Chocolate Chunk Nut",
+        "description": "Multigrain Energy Bar",
+        "ingredients": [
+            {
+                "name": "Brown Rice Syrup",
+                "percentage": 15.0
+            },
+            {
+                "name": "Whole Grains & Millets",
+                "percentage": 14.5
+            },
+            {
+                "name": "Nuts & Seeds",
+                "percentage": 12.0
+            },
+            {
+                "name": "Honey & Dates",
+                "percentage": 10.0
+            },
+            {
+                "name": "Rice Crispies",
+                "percentage": 8.0
+            },
+            {
+                "name": "Oats",
+                "percentage": 8.0
+            },
+            {
+                "name": "Almonds",
+                "percentage": 7.0
+            },
+            {
+                "name": "Cocoa Powder"
+            },
+            {
+                "name": "Sunflower Oil"
+            },
+            {
+                "name": "Vegetable Glycerin"
+            },
+            {
+                "name": "Agar"
+            },
+            {
+                "name": "Salt"
+            },
+            {
+                "name": "Natural Flavor"
+            },
+            {
+                "name": "Rosemary Extract"
+            }
+        ],
+        "nutritionalInfo": {
+            "energyKcal": 420,
+            "protein": 8.5,
+            "carbohydrates": 65,
+            "totalSugar": 22,
+            "addedSugar": 15,
+            "totalFat": 14,
+            "saturatedFat": 3.5,
+            "transFat": 0,
+            "sodium": 120,
+            "fiber": 6.0,
+            "fvnlPercentage": 25
+        }
+    },
+    {
+        "name": "Simple Salted Peanuts",
+        "description": "A simple 2-ingredient snack to test bias",
+        "ingredients": [
+            {
+                "name": "Peanuts",
+                "novaGroup": 1
+            },
+            {
+                "name": "Salt"
+            }
+        ],
+        "nutritionalInfo": {
+            "energyKcal": 567,
+            "protein": 25.8,
+            "carbohydrates": 16.1,
+            "totalSugar": 4.7,
+            "addedSugar": 0,
+            "totalFat": 49.2,
+            "saturatedFat": 6.28,
+            "transFat": 0,
+            "sodium": 400,
+            "fiber": 8.5,
+            "fvnlPercentage": 0
+        }
+    },
+    {
+        "name": "Unhealthy Cola",
+        "description": "High sugar beverage",
+        "ingredients": [
+            {
+                "name": "Carbonated Water"
+            },
+            {
+                "name": "Sugar",
+                "percentage": 10.6
+            },
+            {
+                "name": "Caramel Color",
+                "insCode": "150d"
+            },
+            {
+                "name": "Phosphoric Acid",
+                "insCode": "338"
+            },
+            {
+                "name": "Caffeine"
+            }
+        ],
+        "nutritionalInfo": {
+            "energyKcal": 42,
+            "protein": 0,
+            "carbohydrates": 10.6,
+            "totalSugar": 10.6,
+            "addedSugar": 10.6,
+            "totalFat": 0,
+            "saturatedFat": 0,
+            "transFat": 0,
+            "sodium": 4,
+            "fiber": 0,
+            "fvnlPercentage": 0
+        }
+    }
+]

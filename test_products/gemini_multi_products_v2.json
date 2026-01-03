@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Super Muscle Bar",
+        "category": "Protein Bar",
+        "nutritionalInfo": {
+            "energyKcal": 380,
+            "protein": 30,
+            "carbohydrates": 25,
+            "totalSugar": 5,
+            "totalFat": 12,
+            "saturatedFat": 2,
+            "sourceFiber": 4,
+            "sodium": 200,
+            "fvnlPercentage": 10
+        },
+        "ingredients": [
+            {
+                "name": "Whey Protein Isolate",
+                "percentage": 40
+            },
+            {
+                "name": "Dates",
+                "percentage": 30
+            },
+            {
+                "name": "Almonds",
+                "percentage": 20
+            },
+            {
+                "name": "Cocoa Powder",
+                "percentage": 10
+            }
+        ]
+    },
+    {
+        "name": "Dirty Snack",
+        "category": "Snack",
+        "nutritionalInfo": {
+            "energyKcal": 550,
+            "protein": 2,
+            "carbohydrates": 60,
+            "totalSugar": 50,
+            "totalFat": 30,
+            "saturatedFat": 15,
+            "sourceFiber": 1,
+            "sodium": 600,
+            "fvnlPercentage": 0
+        },
+        "ingredients": [
+            {
+                "name": "Sugar",
+                "percentage": 40
+            },
+            {
+                "name": "Palm Oil",
+                "percentage": 30
+            },
+            {
+                "name": "Refined Flour",
+                "percentage": 20
+            },
+            {
+                "name": "Artificial Flavoring",
+                "percentage": 5
+            },
+            {
+                "name": "E102",
+                "percentage": 5
+            }
+        ]
+    },
+    {
+        "name": "Average Cracker",
+        "category": "Snack",
+        "nutritionalInfo": {
+            "energyKcal": 400,
+            "protein": 8,
+            "carbohydrates": 50,
+            "totalSugar": 10,
+            "totalFat": 15,
+            "saturatedFat": 5,
+            "sourceFiber": 2,
+            "sodium": 400,
+            "fvnlPercentage": 0
+        },
+        "ingredients": [
+            {
+                "name": "Wheat Flour",
+                "percentage": 80
+            },
+            {
+                "name": "Sunflower Oil",
+                "percentage": 15
+            },
+            {
+                "name": "Salt",
+                "percentage": 5
+            }
+        ]
+    }
+]

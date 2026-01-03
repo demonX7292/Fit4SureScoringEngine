@@ -1,0 +1,357 @@
+[
+    {
+        "code": "INS 211",
+        "name": "Sodium Benzoate",
+        "riskTier": "RED",
+        "penalty": 30.0,
+        "aliases": [
+            "sodium benzoate",
+            "e211"
+        ],
+        "description": "Preservative. High metabolic risk in some studies."
+    },
+    {
+        "code": "INS 102",
+        "name": "Tartrazine",
+        "riskTier": "RED",
+        "penalty": 50.0,
+        "aliases": [
+            "tartrazine",
+            "yellow 5",
+            "e102"
+        ]
+    },
+    {
+        "code": "INS 955",
+        "name": "Sucralose",
+        "riskTier": "RED",
+        "penalty": 30.0,
+        "aliases": [
+            "sucralose",
+            "e955"
+        ],
+        "description": "Artificial sweetener. Potentially disrupts gut microbiome."
+    },
+    {
+        "code": "INS 965",
+        "name": "Maltitol",
+        "riskTier": "ORANGE",
+        "penalty": 15.0,
+        "aliases": [
+            "maltitol",
+            "e965"
+        ],
+        "description": "Sugar alcohol. High glycemic index for a polyol; can cause laxative effect."
+    },
+    {
+        "code": "INS 627",
+        "name": "Disodium 5'-Guanylate",
+        "riskTier": "ORANGE",
+        "penalty": 12.0,
+        "aliases": [
+            "disodium guanylate",
+            "sodium guanylate",
+            "e627",
+            "flavor enhancer"
+        ],
+        "description": "Flavor enhancer often used with MSG. Should be avoided by people with gout or kidney stones as it metabolizes into purines."
+    },
+    {
+        "code": "INS 631",
+        "name": "Disodium 5'-Inosinate",
+        "riskTier": "ORANGE",
+        "penalty": 12.0,
+        "aliases": [
+            "disodium inosinate",
+            "sodium inosinate",
+            "e631"
+        ],
+        "description": "A flavor enhancer that works synergistically with glutamates. Like INS 627, it is high in purines and generally avoided by those with uric acid concerns."
+    },
+    {
+        "code": "INS 414",
+        "name": "Gum Arabic (Acacia Gum)",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": [
+            "gum arabic",
+            "acacia gum",
+            "e414",
+            "acacia fiber"
+        ],
+        "description": "A natural prebiotic fiber derived from the sap of the Acacia tree. Highly safe and beneficial for gut health."
+    },
+    {
+        "code": "INS 508",
+        "name": "Potassium Chloride",
+        "riskTier": "GREEN",
+        "penalty": 2.0,
+        "aliases": [
+            "potassium chloride",
+            "e508",
+            "salt substitute"
+        ],
+        "description": "Used as a salt substitute or gelling agent. Generally safe, though a minor penalty is applied as high intake can be an issue for individuals with specific kidney conditions."
+    },
+    {
+        "code": "INS 551",
+        "name": "Silicon Dioxide",
+        "riskTier": "YELLOW",
+        "penalty": 7.0,
+        "aliases": [
+            "silicon dioxide",
+            "silica",
+            "e551",
+            "anti-caking agent"
+        ],
+        "description": "An anti-caking agent used to prevent clumping. While inert, there are emerging concerns regarding nano-particle absorption in the digestive tract."
+    },
+    {
+        "code": "INS 420",
+        "name": "Sorbitol",
+        "riskTier": "ORANGE",
+        "penalty": 15.0,
+        "aliases": [
+            "sorbitol",
+            "e420"
+        ]
+    },
+    {
+        "code": "INS 322",
+        "name": "Soy Lecithin",
+        "riskTier": "YELLOW",
+        "penalty": 5.0,
+        "aliases": [
+            "soy lecithin",
+            "lecithin",
+            "e322"
+        ],
+        "description": "Common emulsifier. Generally safe but highly processed."
+    },
+    {
+        "code": "INS 415",
+        "name": "Xanthan Gum",
+        "riskTier": "YELLOW",
+        "penalty": 5.0,
+        "aliases": [
+            "xanthan gum",
+            "e415"
+        ],
+        "description": "Stabilizer produced by fermentation. Low risk."
+    },
+    {
+        "code": "INS 300",
+        "name": "Ascorbic Acid",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": [
+            "ascorbic acid",
+            "vitamin c",
+            "e300"
+        ]
+    },
+    {
+        "code": "INS 330",
+        "name": "Citric Acid",
+        "riskTier": "GREEN",
+        "penalty": 2,
+        "description": "Natural acidity regulator. Minimal risk."
+    },
+    {
+        "code": "INS 440",
+        "name": "Pectin",
+        "riskTier": "GREEN",
+        "penalty": 0,
+        "description": "Natural fiber from fruits. Safe."
+    },
+    {
+        "code": "INS 500",
+        "name": "Sodium Bicarbonate",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": [
+            "baking soda",
+            "sodium bicarbonate",
+            "e500"
+        ],
+        "description": "Sodium bicarbonate. Standard leavening agent."
+    },
+    {
+        "code": "INS 422",
+        "name": "Glycerol (Glycerine)",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": [
+            "glycerine",
+            "glycerol",
+            "vegetable glycerin",
+            "e422",
+            "humectant"
+        ],
+        "description": "A natural polyol used as a humectant to keep protein bars moist. Generally safe and non-toxic, though can have a mild laxative effect in very high quantities."
+    },
+    {
+        "code": "INS 140",
+        "name": "Chlorophylls",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": [
+            "chlorophyll",
+            "natural green",
+            "e140",
+            "chlorophyll a",
+            "chlorophyll b"
+        ],
+        "description": "Natural green pigment extracted from plants (spinach or grass). Highly safe and biocompatible."
+    },
+    {
+        "code": "INS 150d",
+        "name": "Sulphite Ammonia Caramel",
+        "riskTier": "RED",
+        "penalty": 15.0,
+        "aliases": [
+            "caramel iv",
+            "sulfite ammonia caramel",
+            "e150d",
+            "acid-proof caramel"
+        ],
+        "description": "A dark coloring agent produced by heating carbohydrates with ammonium and sulfite compounds. Contains 4-MEI, a potential carcinogen in high doses."
+    },
+    {
+        "code": "INS 307b",
+        "name": "Tocopherol Concentrate, Mixed",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": [
+            "mixed tocopherols",
+            "vitamin e",
+            "e307b",
+            "natural antioxidant"
+        ],
+        "description": "Natural Vitamin E extract used to prevent oxidation of fats. Considered a beneficial health compound."
+    },
+    {
+        "code": "INS 320",
+        "name": "Butylated Hydroxyanisole (BHA)",
+        "riskTier": "RED",
+        "penalty": 20.0,
+        "aliases": [
+            "bha",
+            "e320",
+            "butylated hydroxyanisole"
+        ],
+        "description": "A synthetic antioxidant used to prevent rancidity. Classified as a 'reasonably anticipated human carcinogen' and linked to endocrine disruption."
+    },
+    {
+        "code": "INS 412",
+        "name": "Guar Gum",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": ["guar gum", "e412"],
+        "description": "Natural thickener from guar beans. Safe and acts as a prebiotic."
+    },
+    {
+        "code": "INS 950",
+        "name": "Acesulfame Potassium",
+        "riskTier": "RED",
+        "penalty": 40.0,
+        "aliases": ["acesulfame k", "ace-k", "e950"],
+        "description": "Artificial sweetener. Often paired with Sucralose. Some concerns over metabolic health."
+    },
+    {
+        "code": "INS 960",
+        "name": "Steviol Glycosides",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": ["stevia", "stevia extract", "e960"],
+        "description": "Natural zero-calorie sweetener from Stevia leaves. Highly safe."
+    },
+    {
+        "code": "INS 407",
+        "name": "Carrageenan",
+        "riskTier": "ORANGE",
+        "penalty": 15.0,
+        "aliases": ["carrageenan", "e407"],
+        "description": "Thickener derived from seaweed. Linked to digestive inflammation in some individuals."
+    },
+    {
+        "code": "INS 471",
+        "name": "Mono- and Diglycerides of Fatty Acids",
+        "riskTier": "YELLOW",
+        "penalty": 5.0,
+        "aliases": ["ins 471", "e471", "glyceryl monostearate"],
+        "description": "Common emulsifier used to improve texture. Generally safe but markers of high processing."
+    },
+    {
+        "code": "INS 202",
+        "name": "Potassium Sorbate",
+        "riskTier": "ORANGE",
+        "penalty": 10.0,
+        "aliases": ["potassium sorbate", "e202"],
+        "description": "Preservative. Prevents mold. Lower risk than Benzoates but still synthetic."
+    },
+    {
+        "code": "INS 421",
+        "name": "Mannitol",
+        "riskTier": "ORANGE",
+        "penalty": 15.0,
+        "aliases": ["mannitol", "e421"],
+        "description": "Sugar alcohol. Can cause bloating and has a laxative effect."
+    },
+    {
+        "code": "INS 282",
+        "name": "Calcium Propionate",
+        "riskTier": "ORANGE",
+        "penalty": 15.0,
+        "aliases": ["ins 282", "e282", "calcium propionate"],
+        "description": "Common bread preservative. Generally safe but associated with behavioral changes in sensitive children."
+    },
+    {
+        "code": "INS 200",
+        "name": "Sorbic Acid",
+        "riskTier": "YELLOW",
+        "penalty": 10.0,
+        "aliases": ["ins 200", "e200", "sorbic acid"],
+        "description": "Preservative used to prevent mold. Low toxicity but synthetic."
+    },
+    {
+        "code": "INS 341(i)",
+        "name": "Monocalcium Phosphate",
+        "riskTier": "GREEN",
+        "penalty": 2.0,
+        "aliases": ["ins 341(i)", "e341", "monocalcium phosphate"],
+        "description": "Leavening agent and acidulant. Standard mineral salt."
+    },
+    {
+        "code": "INS 260",
+        "name": "Acetic Acid",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": ["ins 260", "e260", "acetic acid"],
+        "description": "Glacial acetic acid (vinegar acid). Safe acidity regulator."
+    },
+    {
+        "code": "INS 297",
+        "name": "Fumaric Acid",
+        "riskTier": "GREEN",
+        "penalty": 2.0,
+        "aliases": ["ins 297", "e297", "fumaric acid"],
+        "description": "Acidity regulator found naturally in some plants."
+    },
+    {
+        "code": "INS 510",
+        "name": "Ammonium Chloride",
+        "riskTier": "ORANGE",
+        "penalty": 12.0,
+        "aliases": ["ins 510", "e510", "ammonium chloride"],
+        "description": "Flour treatment agent (yeast food). Highly processed chemical salt."
+    },
+    {
+        "code": "INS 1100",
+        "name": "Amylases",
+        "riskTier": "GREEN",
+        "penalty": 0.0,
+        "aliases": ["ins 1100", "amylase", "alpha-amylase"],
+        "description": "Enzymes used to break down starch into sugars for yeast. Natural biological catalyst."
+    }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Baker's Loaf Zero Preservatives Multigrain Bread",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)", "percentage": 48.15 },
+      { "name": "Mixed Seeds & Grains (Flax, Sesame, Melon, Oats)", "percentage": 15.2 },
+      { "name": "Yeast" },
+      { "name": "sugar", "isSugar": true },
+      { "name": "gluten" },
+      { "name": "refined soyabean oil" },
+      { "name": "Salt" },
+      { "name": "fermented wheat flour" },
+      { "name": "vinegar" },
+      { "name": "malt products" },
+      { "name": "wheat bran" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 278.0,
+      "totalSugar": 5.25,
+      "addedSugar": 1.51,
+      "saturatedFat": 0.2,
+      "sodium": 290.0,
+      "fiber": 6.3,
+      "protein": 6.63,
+      "fvnlPercentage": 15.2
+    }
+  },
+  {
+    "name": "Protein Chef Double Protein Bread (Multigrain)",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)" },
+      { "name": "Protein Blend (Peanut flour, vital wheat Protein)" },
+      { "name": "soy protein isolate" },
+      { "name": "Yeast" },
+      { "name": "rolled oats" },
+      { "name": "sugar" },
+      { "name": "salt" },
+      { "name": "refined sunflower oil" },
+      { "name": "vinegar" },
+      { "name": "cultured wheat flour" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 269.0,
+      "totalSugar": 4.6,
+      "addedSugar": 2.2,
+      "saturatedFat": 0.05,
+      "sodium": 429.0,
+      "fiber": 12.9,
+      "protein": 23.7,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Modern Hi-Fiber Brown Bread",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Refined Wheat Flour (Maida)", "percentage": 30.0 },
+      { "name": "Whole Wheat Flour (Atta)", "percentage": 31.0 },
+      { "name": "Sugar", "isSugar": true },
+      { "name": "Wheat Bran" },
+      { "name": "Yeast" },
+      { "name": "gluten" },
+      { "name": "Salt" },
+      { "name": "refined soyabean oil" },
+      { "name": "INS 282" },
+      { "name": "INS 200" },
+      { "name": "Malt product" },
+      { "name": "INS 471" },
+      { "name": "INS 341(i)" },
+      { "name": "INS 260" },
+      { "name": "INS 297" },
+      { "name": "INS 510" },
+      { "name": "INS 300" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 278.0,
+      "totalSugar": 4.01,
+      "addedSugar": 3.7,
+      "saturatedFat": 0.8,
+      "sodium": 440.0,
+      "fiber": 6.1,
+      "protein": 9.2,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "The Health Factory Sour dough focaccia",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)" },
+      { "name": "yeast" },
+      { "name": "Wheat gluten" },
+      { "name": "Olive Oil" },
+      { "name": "Iodized Salt" },
+      { "name": "Sugar", "isSugar": true },
+      { "name": "Cultured Wheat Flour", "description": "Natural preservative" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 261.5,
+      "totalSugar": 3.93,
+      "addedSugar": 1.84,
+      "saturatedFat": 0.14,
+      "sodium": 357.12,
+      "fiber": 6.81,
+      "protein": 13.47,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "The Health Factory Zero Maida Whole Wheat Bread",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)" },
+      { "name": "yeast" },
+      { "name": "Wheat gluten" },
+      { "name": "Rice Bran Oil" },
+      { "name": "Sugar", "isSugar": true },
+      { "name": "Iodized Salt" },
+      { "name": "Cultured Wheat Flour", "description": "Natural preservative" },
+      { "name": "Cultured Glucose", "description": "Natural shelf-life extender" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 241.5,
+      "totalSugar": 4.13,
+      "addedSugar": 1.94,
+      "saturatedFat": 0.14,
+      "sodium": 347.12,
+      "fiber": 6.31,
+      "protein": 13.47,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Modern 100% Whole Wheat Bread (Zero Maida)",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)", "percentage": 57.3 },
+      { "name": "Sugar", "isSugar": true },
+      { "name": "Gluten" },
+      { "name": "Yeast" },
+      { "name": "Refined Soyabean Oil" },
+      { "name": "Iodized Salt" },
+      { "name": "Milk solids" },
+      { "name": "Oat flour" },
+      { "name": "Soya flour" },
+      { "name": "INS 282" },
+      { "name": "INS 200" },
+      { "name": "Malt Product" },
+      { "name": "INS 341(i)" },
+      { "name": "INS 260" },
+      { "name": "INS 297" },
+      { "name": "INS 471" },
+      { "name": "INS 510" },
+      { "name": "INS 300" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 263.93,
+      "totalSugar": 3.9,
+      "addedSugar": 3.66,
+      "saturatedFat": 2.29,
+      "sodium": 380.0,
+      "fiber": 6.4,
+      "protein": 9.6,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "The Health Factory Zero Maida Milk Bread",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)" },
+      { "name": "Milk Solids", "percentage": 6.0 },
+      { "name": "Sugar", "isSugar": true },
+      { "name": "Yeast" },
+      { "name": "gluten" },
+      { "name": "Rice Bran Oil" },
+      { "name": "Iodized Salt" },
+      { "name": "Cultured Wheat Flour" },
+      { "name": "Cultured Glucose" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 265.0,
+      "totalSugar": 9.04,
+      "addedSugar": 3.92,
+      "saturatedFat": 0.45,
+      "sodium": 330.0,
+      "fiber": 6.2,
+      "protein": 11.8,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Baker's Loaf Zero Preservatives Multigrain Bread",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)", "percentage": 48.15 },
+      { "name": "grains and seeds", "percentage": 15.2 },
+      { "name": "Yeast" },
+      { "name": "sugar", "isSugar": true },
+      { "name": "gluten" },
+      { "name": "refined soyabean oil" },
+      { "name": "Salt" },
+      { "name": "fermented wheat flour" },
+      { "name": "brewed vinegar" },
+      { "name": "malt products" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 272.0,
+      "totalSugar": 5.25,
+      "addedSugar": 1.51,
+      "saturatedFat": 0.2,
+      "sodium": 351.33,
+      "fiber": 6.3,
+      "protein": 6.63,
+      "fvnlPercentage": 15.2
+    }
+  },
+  {
+    "name": "The Health Factory Super Fiber Wheat Bread",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)" },
+      { "name": "Wheat bran" },
+      { "name": "Fructooligosaccharide" },
+      { "name": "Yeast" },
+      { "name": "gluten" },
+      { "name": "Cultured Wheat Flour" },
+      { "name": "Iodized Salt" }
+
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 232.0,
+      "totalSugar": 2.88,
+      "addedSugar": 0,
+      "saturatedFat": 0.21,
+      "sodium": 511.0,
+      "fiber": 11.87,
+      "protein": 10.54,
+      "fvnlPercentage": 0.0
+    }
+  },
+  {
+    "name": "Protein Chef 54g Protein Multigrain Bread (No Maida)",
+    "category": "Bread",
+    "ingredients": [
+      { "name": "Whole Wheat Flour (Atta)" },
+      { "name": "Soy flour", "percentage": 4.3 },
+      { "name": "Multigrain Seeds (Flax, Sunflower, Pumpkin)", "percentage": 1.8 },
+      { "name": "Vital Wheat Protein" },
+      { "name": "Yeast" },
+      { "name": "Sugar" },
+      { "name": "Salt" },
+      { "name": "Refined sunflower oil" },
+      { "name": "vinegar" },
+      { "name": "cultured wheat flour" }
+    ],
+    "nutritionalInfo": {
+      "energyKcal": 250.0,
+      "totalSugar": 4.7,
+      "addedSugar": 2.5,
+      "saturatedFat": 0.1,
+      "sodium": 440.5,
+      "fiber": 7.6,
+      "protein": 20.0,
+      "fvnlPercentage": 1.8
+    }
+  }
+]
